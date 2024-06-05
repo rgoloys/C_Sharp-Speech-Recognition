@@ -1,0 +1,21 @@
+C:\Users\rolando\source\repos\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\rolando\source\repos\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\rolando\source\repos\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.AssemblyReference.cache
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\rolando\source\repos\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.AssemblyReference.cache
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+D:\2nd sem\Integrated Programming\CS2\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
